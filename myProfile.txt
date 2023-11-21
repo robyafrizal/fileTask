@@ -1,3 +1,6 @@
 Nama : Roby
 Umur : 38
 Pekerjaan : Pengangguran
+Alamat : Bandung
+Status : Nikah
+Anak : 2
